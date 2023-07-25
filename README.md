@@ -8,7 +8,7 @@ Atualmente, estou aprendendo Python e sei o básico da linguagem C, e, tenho con
 
 Aprecio várias áreas dentro do mundo de T.I, porém as que eu mais me identifico são:
 
-- Front-End 🖥️
+- Desenvolvimento Front-End 🖥️
 - Desenvolvimento Web 💻
 - Desenvolvimento Mobile 📱
 
