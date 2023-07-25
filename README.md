@@ -1,7 +1,7 @@
 # Seja bem-vindo(a) ao meu GitHub! 👾
 ## Sobre mim
 
-Prazer! Meu nome é Karina e sou uma entusiasta da programação. 
+Prazer! Meu nome é Karina, estou cursando Ánalise e Desenvolvimento de Sistemas na UNISANTOS, e sou uma entusiasta da programação. 
 Atualmente, estou aprendendo Python e sei o básico da linguagem C, e, tenho conhecimento em HTML e CSS. Estou animada para explorar o mundo da programação e criar projetos interessantes. :)
 
 ## Áreas de interesse
